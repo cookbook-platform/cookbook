@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Firebase config file
+cookbook-platform-360c3-firebase-adminsdk-fbsvc-ebcb6d1af3.json
